@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XChangeIt</string>
+    <string name="enter_value">Enter the value to convert</string>
+    <string name="click_me">Click Me</string>
+</resources>
